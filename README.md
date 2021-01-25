@@ -15,6 +15,6 @@ allprojects {
 2.在模块 build.gradle 中添加引用：
 ```
 dependencies {
-    implementation "org.ituns.android:provider:1.0.0.1-SNAPSHOT"
+    implementation "org.ituns.android:provider:1.0.0"
 }
 ```
