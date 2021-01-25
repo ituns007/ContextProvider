@@ -1,0 +1,3 @@
+rootProject.name='ContextProvider'
+include ':app'
+include ':provider'
